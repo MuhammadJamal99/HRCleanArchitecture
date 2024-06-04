@@ -16,7 +16,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\HRClean.Persistence\HRClean.Persistence.csproj" />
+		<ProjectReference Include="..\HRClean.Persistence\HRClean.Persistence.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -18,7 +18,7 @@
 	</ItemGroup>
 	
 	<ItemGroup>
-		<ProjectReference Include="..\Core\HRClean.Application\HRClean.Application.csproj" />
+		<ProjectReference Include="..\..\Core\HRClean.Application\HRClean.Application.csproj" />
 	</ItemGroup>
 
 </Project>
